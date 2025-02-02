@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffcccb; /* Light tomato background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #ff6347; /* Tomato color */
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    background-color: #ff6347; /* Tomato color */
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+a:hover {
+    background-color: #ff4500; /* Darker tomato for hover */
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    margin: 30px auto;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+label {
+    font-size: 16px;
+    margin-bottom: 5px;
+    display: block;
+}
+input[type="number"], select {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ff6347; /* Tomato color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #ff4500; /* Darker tomato for hover */
+}

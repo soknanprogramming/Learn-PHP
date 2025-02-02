@@ -1,0 +1,181 @@
+body{
+    background-color: gold;
+    margin: 0;
+}
+
+#header-of-page{
+    text-align: center;
+    background: linear-gradient(green,yellow);
+    padding: 20px;
+    color: rgb(3, 0, 47);
+}
+
+#all-menu{
+    width: 500px; height: 400px;
+    border-radius: 20px;
+    /* //set element to center left and right page */
+    margin: 50px auto;
+    padding: 30px;
+    background: linear-gradient(blue,gold);
+    background-repeat: no-repeat;
+    background-attachment:initial;
+    background-position: center;
+}
+
+/* //section all child of #all-menu that element div */
+.div-after{
+    width: 200px; height: 170px;
+    margin: auto;
+    padding: 10px;
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 columns */
+    gap: 10px; /* Space between items */
+  }body{
+    background-color: gold;
+    margin: 0;
+}
+
+#header-of-page{
+    text-align: center;
+    background: linear-gradient(green,yellow);
+    padding: 20px;
+    color: rgb(3, 0, 47);
+}
+
+#all-menu{
+    width: 500px; height: 400px;
+    border-radius: 20px;
+    /* //set element to center left and right page */
+    margin: 50px auto;
+    padding: 30px;
+    background: linear-gradient(blue,gold);
+    background-repeat: no-repeat;
+    background-attachment:initial;
+    background-position: center;
+}
+
+/* //section all child of #all-menu that element div */
+.div-after{
+    width: 200px; height: 170px;
+    margin: auto;
+    padding: 10px;
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 columns */
+    gap: 10px; /* Space between items */
+  }body{
+    background-color: gold;
+    margin: 0;
+}
+
+#header-of-page{
+    text-align: center;
+    background: linear-gradient(green,yellow);
+    padding: 20px;
+    color: rgb(3, 0, 47);
+}
+
+#all-menu{
+    width: 500px; height: 400px;
+    border-radius: 20px;
+    /* //set element to center left and right page */
+    margin: 50px auto;
+    padding: 30px;
+    background: linear-gradient(blue,gold);
+    background-repeat: no-repeat;
+    background-attachment:initial;
+    background-position: center;
+}
+
+/* //section all child of #all-menu that element div */
+.div-after{
+    width: 200px; height: 170px;
+    margin: auto;
+    padding: 10px;
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 columns */
+    gap: 10px; /* Space between items */
+  }body{
+    background-color: gold;
+    margin: 0;
+}
+
+#header-of-page{
+    text-align: center;
+    background: linear-gradient(green,yellow);
+    padding: 20px;
+    color: rgb(3, 0, 47);
+}
+
+#all-menu{
+    width: 500px; height: 400px;
+    border-radius: 20px;
+    /* //set element to center left and right page */
+    margin: 50px auto;
+    padding: 30px;
+    background: linear-gradient(blue,gold);
+    background-repeat: no-repeat;
+    background-attachment:initial;
+    background-position: center;
+}
+
+/* //section all child of #all-menu that element div */
+.div-after{
+    width: 200px; height: 170px;
+    margin: auto;
+    padding: 10px;
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    
+}
+a{
+    text-decoration: none;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 columns */
+    gap: 10px; /* Space between items */
+  }

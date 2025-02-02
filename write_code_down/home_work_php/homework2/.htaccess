@@ -1,0 +1,8 @@
+<Files "sidebar_for_home_page.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+<Files "top_menu.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
